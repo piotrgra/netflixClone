@@ -6,4 +6,4 @@ Wykorzystane technologie:
 - zostało użyte [API TMDB](https://www.themoviedb.org/?language=pl)
 - hosting Firebase [LIVE DEMO](https://netflix-clone-8072b.web.app/)
 
-![Demo](src\demo\netflix.gif)
+![Demo](src/demo/netflix.gif)
